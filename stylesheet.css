@@ -14,8 +14,8 @@ body {
 	text-align: center;
 	margin: 0;
 
-	display: table-cell;
-    vertical-align: middle;
+	/* display: table-cell;
+    vertical-align: middle; */
 }
 @media all and (orientation:portrait) {
 	body {
